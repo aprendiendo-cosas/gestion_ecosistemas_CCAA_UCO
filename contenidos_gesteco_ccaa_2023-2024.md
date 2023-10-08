@@ -2,12 +2,6 @@
 
 ### Curso 2023-2024
 
-Texto introductorio
-
-![portada](url foto portada)
-
-
-
 En esta página tienes acceso a todo el material con el que hemos trabajado durante el curso. 
 
 A continuación puedes ver los temas ordenados de la misma manera que se muestran en el moodle. Al lado de cada tema puedes ver uno o varios rectángulos de color que muestra el tipo de contenido del mismo. Para cada acto docente (o tema) tienes la siguiente información:
@@ -26,15 +20,9 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/tree/2023_2024) 
 ***
 
-
-
-
-
-
-
 ### Bloque II: ¿qué nos dice la ciencia sobre gestión de ecosistemas?
 ***
-+ **Ecosistemas como sistemas complejos adaptativos** 
++ **Sobre la complejidad de gestionar ecosistemas** 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco/2023_2024/guion_sistemas_complejos_gesteco.html)
   + [Descargar material](https://zenodo.org/record/8415223/files/aprendiendo-cosas/Te_sistemas_complejos_gesteco-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8415223.svg)](https://doi.org/10.5281/zenodo.8415223)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco/tree/2023_2024) 
@@ -45,7 +33,6 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_socioecosistemas_gesteco_ccaa/2023_2024/guion_socioecosistemas_gesteco.html)
   + [Descargar material](https://zenodo.org/record/8415284/files/aprendiendo-cosas/Te_socioecosistemas_gesteco_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8415284.svg)](https://doi.org/10.5281/zenodo.8415284)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_socioecosistemas_gesteco_ccaa/tree/2023_2024)
-  + 
 
 
 ***
