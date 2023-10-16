@@ -1,4 +1,4 @@
- # Procedimiento de trabajo en equipo
+ # El reto de trabajar en equipo
 
 
 > + **_Versión_**: 2023-2024
