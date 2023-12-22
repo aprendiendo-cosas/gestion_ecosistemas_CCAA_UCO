@@ -20,7 +20,7 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/tree/2023_2024) 
 ***
 
-### Bloque II: ¿qué nos dice la ciencia sobre gestión de ecosistemas?
+### Bloque II: ¿Qué nos dice la ciencia sobre gestión de ecosistemas?
 ***
 + **Sobre la complejidad de gestionar ecosistemas** 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco/2023_2024/guion_sistemas_complejos_gesteco.html)
@@ -41,8 +41,37 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Descargar material](https://zenodo.org/record/8414899/files/aprendiendo-cosas/Te_cambio_global_gesteco_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8414899.svg)](https://doi.org/10.5281/zenodo.8414899)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_cambio_global_gesteco_ccaa/tree/2023_2024) 
 ***
++ **Problemas retorcidos**
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_conflictos_socioecologicos_gesteco_ccaa/2023_2024/guion_conflictos.html)
+  + [Descargar material](https://zenodo.org/records/10108280/files/aprendiendo-cosas/Te_problemas_retorcidos_gesteco_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10108280.svg)](https://doi.org/10.5281/zenodo.10108280)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_problemas_retorcidos_gesteco_ccaa/tree/2023_2024) 
+***
++ **Conflictos en el ámbito de la gestión de ecosistemas**
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_conflictos_socioecologicos_gesteco_ccaa/2023_2024/guion_conflictos.html)
+  + [Descargar material](https://zenodo.org/records/10108257/files/aprendiendo-cosas/Te_conflictos_socioecologicos_gesteco_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10108257.svg)](https://doi.org/10.5281/zenodo.10108257)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_conflictos_socioecologicos_gesteco_ccaa/tree/2023_2024) 
+***
 
 
+
+
+***
+
+### Bloque III: ¿Cómo gestionamos los socioecosistemas en la vida real?
+***
+
++ **Salida al Parque Natural Sierra de Cardeña y Montoro**
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/C_cardenia_gesteco/2023_2024/guion_salida_gesteco.html)
+  + [Descargar material](https://zenodo.org/records/10117271/files/aprendiendo-cosas/C_cardenia_gesteco-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10117271.svg)](https://doi.org/10.5281/zenodo.10117271)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/C_cardenia_gesteco/tree/2023_2024) 
+***
+
+
+
+
+
+guión vídeo cardeña
+guión actividad calificación discreta
 
 
 
