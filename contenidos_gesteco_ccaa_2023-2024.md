@@ -2,6 +2,14 @@
 
 ### Curso 2023-2024
 
+![portada](https://github.com/aprendiendo-cosas/gestion_ecosistemas_CCAA_UCO/blob/main/imagenes/portada_2023_2024.jpg?raw=true)
+
+
+
+
+
+
+
 En esta página tienes acceso a todo el material con el que hemos trabajado durante el curso. 
 
 A continuación puedes ver los temas ordenados de la misma manera que se muestran en el moodle. Al lado de cada tema puedes ver uno o varios rectángulos de color que muestra el tipo de contenido del mismo. Para cada acto docente (o tema) tienes la siguiente información:
@@ -52,11 +60,6 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_conflictos_socioecologicos_gesteco_ccaa/tree/2023_2024) 
 ***
 
-
-
-
-***
-
 ### Bloque III: ¿Cómo gestionamos los socioecosistemas en la vida real?
 ***
 
@@ -78,7 +81,13 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Ver material en Github](https://github.com/aprendiendo-cosas/T_trabajo_tematico_gesteco_ccaa/tree/2023_2024) 
 ***
 
-
+### Bloque IV: ¿Cómo podemos hacer una gestión más (socio)ecosistémica?
+***
++ **Instrucciones para hacer el trabajo sobre tipos de (socio)ecosistemas** 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/2023-2024/guion_trabajo_ecosistema.html)
+  + [Descargar material](https://zenodo.org/records/10270377/files/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa-2023-2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10270377.svg)](https://doi.org/10.5281/zenodo.10270377)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/tree/2023-2024) 
+***
 
 
 

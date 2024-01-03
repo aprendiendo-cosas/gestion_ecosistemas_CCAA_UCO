@@ -4,7 +4,7 @@
 
 Texto introductorio
 
-![portada](url foto portada)
+![portada](https://github.com/aprendiendo-cosas/gestion_ecosistemas_CCAA_UCO/blob/main/imagenes/portada_2022_2023.jpg?raw=true)
 
 
 
