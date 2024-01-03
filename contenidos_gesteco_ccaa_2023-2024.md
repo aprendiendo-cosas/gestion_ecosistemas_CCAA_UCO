@@ -22,7 +22,7 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 
 ### Bloque II: ¿Qué nos dice la ciencia sobre gestión de ecosistemas?
 ***
-+ **Sobre la complejidad de gestionar ecosistemas** 
++ **¿Por qué es tan complejo gestionar ecosistemas?** 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco/2023_2024/guion_sistemas_complejos_gesteco.html)
   + [Descargar material](https://zenodo.org/record/8415223/files/aprendiendo-cosas/Te_sistemas_complejos_gesteco-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8415223.svg)](https://doi.org/10.5281/zenodo.8415223)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco/tree/2023_2024) 
@@ -41,12 +41,12 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Descargar material](https://zenodo.org/record/8414899/files/aprendiendo-cosas/Te_cambio_global_gesteco_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8414899.svg)](https://doi.org/10.5281/zenodo.8414899)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_cambio_global_gesteco_ccaa/tree/2023_2024) 
 ***
-+ **Problemas retorcidos**
++ **Problemas retorcidos por todos lados...**
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_conflictos_socioecologicos_gesteco_ccaa/2023_2024/guion_conflictos.html)
   + [Descargar material](https://zenodo.org/records/10108280/files/aprendiendo-cosas/Te_problemas_retorcidos_gesteco_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10108280.svg)](https://doi.org/10.5281/zenodo.10108280)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_problemas_retorcidos_gesteco_ccaa/tree/2023_2024) 
 ***
-+ **Conflictos en el ámbito de la gestión de ecosistemas**
++ **Algunas ideas sobre cómo abordar conflictos en sistemas socioecológicos**
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_conflictos_socioecologicos_gesteco_ccaa/2023_2024/guion_conflictos.html)
   + [Descargar material](https://zenodo.org/records/10108257/files/aprendiendo-cosas/Te_conflictos_socioecologicos_gesteco_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10108257.svg)](https://doi.org/10.5281/zenodo.10108257)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_conflictos_socioecologicos_gesteco_ccaa/tree/2023_2024) 
@@ -66,12 +66,19 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Ver material en Github](https://github.com/aprendiendo-cosas/C_cardenia_gesteco/tree/2023_2024) 
 ***
 
++ **Instrucciones para hacer el vídeo sobre gestión de compartimentos de los ecosistemas** (estudiantes que eligieron evaluación continua)
+  + [Guión dinámico](https://raw.githack.com/aprendiendo-cosas/A_video_gesteco/main/guion_video_gesteco.html)
+  + [Descargar material]() falta subir vídeos de estudiantes
+  + [Ver material en Github]() 
+***
+
++ **Instrucciones para hacer el trabajo de prácticas** (estudiantes que eligieron calificación discreta)
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/T_trabajo_tematico_gesteco_ccaa/2023_2024/guion_trabajo_tematico.html)
+  + [Descargar material](https://zenodo.org/records/10455784/files/aprendiendo-cosas/T_trabajo_tematico_gesteco_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10455784.svg)](https://doi.org/10.5281/zenodo.10455784)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/T_trabajo_tematico_gesteco_ccaa/tree/2023_2024) 
+***
 
 
-
-
-guión vídeo cardeña
-guión actividad calificación discreta
 
 
 
