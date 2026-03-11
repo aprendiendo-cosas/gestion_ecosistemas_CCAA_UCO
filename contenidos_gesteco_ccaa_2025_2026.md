@@ -36,9 +36,9 @@ ok **Concepciones previas de la gestión de ecosistemas**
 
 
 ok + **Introducción a la asignatura.** 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/2024_2025/guion_introduccion_gesteco.html)
-  + [Descargar material](https://zenodo.org/records/8415029/files/aprendiendo-cosas/Te_introduccion_gesteco_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8415029.svg)](https://doi.org/10.5281/zenodo.8415029)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/tree/2024_2025) 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/2025_2026/guion_introduccion_gesteco.html)
+  + [Descargar material](https://zenodo.org/records/18953265/files/aprendiendo-cosas/Te_introduccion_gesteco_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18953265.svg)](https://doi.org/10.5281/zenodo.18953265)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/tree/2025_2026) 
 ***
 
 ### Bloque II: ¿Qué nos dice la ciencia sobre gestión de ecosistemas?
