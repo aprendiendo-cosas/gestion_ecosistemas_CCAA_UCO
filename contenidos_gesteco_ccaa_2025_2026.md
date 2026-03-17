@@ -4,11 +4,11 @@
 
 ![portada](https://github.com/aprendiendo-cosas/gestion_ecosistemas_CCAA_UCO/blob/main/imagenes/portada_2025_2026.jpg?raw=true)
 
+---
 
+[TOC]
 
-
-
-
+---
 
 En esta página tienes acceso a todo el material con el que hemos trabajado durante el curso. 
 
@@ -26,7 +26,7 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 
 
 
-ok **Concepciones previas de la gestión de ecosistemas** 
+ok **Concepciones previas de la gestión de ecosistemas** FALTAN NÚMEROS EN TITULARES
 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_definicion_gestion_ecosistemas_gesteco_ccaa/2025_2026/guion_concepciones_previas.html)
   + [Descargar material](https://zenodo.org/records/18889341/files/aprendiendo-cosas/Te_definicion_gestion_ecosistemas_gesteco_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18889341.svg)](https://doi.org/10.5281/zenodo.18889341)
@@ -36,13 +36,22 @@ ok **Concepciones previas de la gestión de ecosistemas**
 
 
 ok + **Introducción a la asignatura.** 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/2025_2026/guion_introduccion_gesteco.html)
-  + [Descargar material](https://zenodo.org/records/18953265/files/aprendiendo-cosas/Te_introduccion_gesteco_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18953265.svg)](https://doi.org/10.5281/zenodo.18953265)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/tree/2025_2026) 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/2025-2026/guion_introduccion_gesteco.html)
+  + [Descargar material](https://zenodo.org/records/18965515/files/aprendiendo-cosas/Te_introduccion_gesteco_ccaa-2025-2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18965515.svg)](https://doi.org/10.5281/zenodo.18965515)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/tree/2025-2026) 
 ***
 
-### Bloque II: ¿Qué nos dice la ciencia sobre gestión de ecosistemas?
+### Aproximaciones novedosas para mejorar la gestión de ecosistemas
 ***
+
+ok + **Aspectos generales de los socioecosistemas** 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_socioecosistemas_gesteco_ccaa/2025_2026/guion_socioecosistemas_gesteco.html)
+  + [Descargar material](https://zenodo.org/records/18966385/files/aprendiendo-cosas/Te_socioecosistemas_gesteco_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18966385.svg)](https://doi.org/10.5281/zenodo.18966385)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_socioecosistemas_gesteco_ccaa/tree/2025_2026)
+
+
+
+
 + **¿Por qué es tan complejo gestionar ecosistemas?** 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco/2023_2024/guion_sistemas_complejos_gesteco.html)
   + [Descargar material](https://zenodo.org/record/8415223/files/aprendiendo-cosas/Te_sistemas_complejos_gesteco-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8415223.svg)](https://doi.org/10.5281/zenodo.8415223)
@@ -50,17 +59,9 @@ ok + **Introducción a la asignatura.**
 ***
 
 
-+ **Aspectos generales de los socioecosistemas** 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_socioecosistemas_gesteco_ccaa/2023_2024/guion_socioecosistemas_gesteco.html)
-  + [Descargar material](https://zenodo.org/record/8415284/files/aprendiendo-cosas/Te_socioecosistemas_gesteco_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8415284.svg)](https://doi.org/10.5281/zenodo.8415284)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_socioecosistemas_gesteco_ccaa/tree/2023_2024)
 
 
-***
-+ **El cambio global como contexto en el que se desarrolla la gestión de ecosistemas**
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_cambio_global_gesteco_ccaa/2023_2024/guion_cambio_global.html)
-  + [Descargar material](https://zenodo.org/record/8414899/files/aprendiendo-cosas/Te_cambio_global_gesteco_ccaa-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8414899.svg)](https://doi.org/10.5281/zenodo.8414899)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_cambio_global_gesteco_ccaa/tree/2023_2024) 
+
 ***
 + **Problemas retorcidos por todos lados...**
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_conflictos_socioecologicos_gesteco_ccaa/2023_2024/guion_conflictos.html)
@@ -94,13 +95,18 @@ ok + **Introducción a la asignatura.**
   + [Ver material en Github](https://github.com/aprendiendo-cosas/T_trabajo_tematico_gesteco_ccaa/tree/2023_2024) 
 ***
 
-### Bloque IV: ¿Cómo podemos hacer una gestión más (socio)ecosistémica?
+### ¡Manos a la obra! ¿Cómo podemos hacer una gestión más "(socio)ecosistémica"?
 ***
+ok + **Creación de equipos de trabajo** 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA/2025-2026/guion_trabajo_equipo.html)
+  + [Descargar material](https://zenodo.org/records/18964195/files/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA-2025-2026.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18964195.svg)](https://doi.org/10.5281/zenodo.18964195)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA/tree/2025-2026) 
+***
+
 + **Instrucciones para hacer el trabajo sobre tipos de (socio)ecosistemas** 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/2023-2024/guion_trabajo_ecosistema.html)
   + [Descargar material](https://zenodo.org/records/10270377/files/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa-2023-2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10270377.svg)](https://doi.org/10.5281/zenodo.10270377)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/tree/2023-2024) 
-***
 
 
 
