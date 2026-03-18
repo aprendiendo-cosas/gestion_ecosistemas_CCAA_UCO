@@ -63,6 +63,14 @@ ok + **Introducción a la asignatura.**
 ### Bloque III: ¿Cómo gestionamos los socioecosistemas en la vida real?
 ***
 
+ok + **Manejo de bosques** 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_gestion_bosques_gesteco_ccaa/2024_2025/guion_gestion_bosques.html)
+  + [Descargar material](https://zenodo.org/records/15444552/files/aprendiendo-cosas/Te_gestion_bosques_gesteco_ccaa-2024_2025.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15444552.svg)](https://doi.org/10.5281/zenodo.15444552)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_gestion_bosques_gesteco_ccaa/tree/2024_2025) 
+
+
+
+
 + **Salida al Parque Natural Sierra de Cardeña y Montoro**
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/C_cardenia_gesteco/2023_2024/guion_salida_gesteco.html)
   + [Descargar material](https://zenodo.org/records/10117271/files/aprendiendo-cosas/C_cardenia_gesteco-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10117271.svg)](https://doi.org/10.5281/zenodo.10117271)
