@@ -131,7 +131,12 @@ ok + **Creación de equipos de trabajo**
 + [Descargar material](https://zenodo.org/records/10270377/files/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa-2023-2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10270377.svg)](https://doi.org/10.5281/zenodo.10270377)
 + [Ver material en Github](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/tree/2023-2024) 
 
+***
 
+**Fase I: Reconocimiento y contextualización del problema** 
++ [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/2025_2026/guion_reconocimiento_reto.html)
++ [Descargar material](https://zenodo.org/records/10270377/files/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa-2023-2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10270377.svg)](https://doi.org/10.5281/zenodo.10270377)
++ [Ver material en Github](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/tree/2023-2024) 
 
 
 
