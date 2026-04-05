@@ -28,7 +28,7 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 
 
 
-ok **Concepciones previas de la gestión de ecosistemas.** <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> 
+#### 1.1. Concepciones previas de la gestión de ecosistemas. <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> 
 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_definicion_gestion_ecosistemas_gesteco_ccaa/2025-2026/guion_concepciones_previas.html)
   + [Descargar material](https://zenodo.org/records/18929043/files/aprendiendo-cosas/Te_definicion_gestion_ecosistemas_gesteco_ccaa-2025-2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18929043.svg)](https://doi.org/10.5281/zenodo.18929043)
@@ -36,11 +36,15 @@ ok **Concepciones previas de la gestión de ecosistemas.** <span style="display:
 
 ---
 
+#### 1.2. Introducción a la asignatura. <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> 
 
-ok **Introducción a la asignatura.** <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/2025-2026/guion_introduccion_gesteco.html)
   + [Descargar material](https://zenodo.org/records/18965515/files/aprendiendo-cosas/Te_introduccion_gesteco_ccaa-2025-2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18965515.svg)](https://doi.org/10.5281/zenodo.18965515)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/tree/2025-2026) 
+
+
+
+
 
 
 
@@ -52,22 +56,23 @@ ok **Introducción a la asignatura.** <span style="display: inline-block; font-s
 
 
 
-ok **Aspectos generales de los socioecosistemas.** <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> 
+#### 2.1 Aspectos generales de los socioecosistemas. <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> 
+
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_socioecosistemas_gesteco_ccaa/2025_2026/guion_socioecosistemas_gesteco.html)
   + [Descargar material](https://zenodo.org/records/18966385/files/aprendiendo-cosas/Te_socioecosistemas_gesteco_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18966385.svg)](https://doi.org/10.5281/zenodo.18966385)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_socioecosistemas_gesteco_ccaa/tree/2025_2026)
 
 ---
 
+#### 2.2 Teoría de sistemas: sobre la complejidad de gestionar ecosistemas. <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span>  
 
-ok  **Teoría de sistemas: sobre la complejidad de gestionar ecosistemas.** <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span>  
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/2025_2026/guion_sistemas_complejos_gesteco.html)
   + [Descargar material](https://zenodo.org/records/19232421/files/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19232421.svg)](https://doi.org/10.5281/zenodo.19232421)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/tree/2025_2026) 
 
 ---
 
-ok **Los problemas de los sistema complejos también son complejos.** <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> 
+#### 2.3 Los problemas de los sistema complejos también son complejos. <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> 
 
 + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_conflictos_socioecologicos_gesteco_ccaa/2025_2026/guion_conflictos.html)
 + [Descargar material](https://zenodo.org/records/19240385/files/aprendiendo-cosas/Te_problemas_retorcidos_gesteco_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19240385.svg)](https://doi.org/10.5281/zenodo.19240385)
@@ -78,21 +83,24 @@ ok **Los problemas de los sistema complejos también son complejos.** <span styl
 
 
 
-***
+
+
+
+
 
 ### 3 Técnicas o métodos usados actualmente en la gestión de ecosistemas
 
+***
 
+#### 3.1. Instrucciones para preparar la clase sobre un tema de gestión.  <span style="display: inline-block; font-size: 12px; color: white; background-color: #8D26F5; border-radius: 5px; padding: 5px; font-weight: bold;"> Tarea</span> 
 
-
-ok + **Instrucciones para preparar la clase sobre un tema de gestión**  <span style="display: inline-block; font-size: 12px; color: white; background-color: #8D26F5; border-radius: 5px; padding: 5px; font-weight: bold;"> Tarea</span> 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_clase_invertida_gesteco_ccaa/2025_2026/guion_preparar_clase_invertida.html)
   + [Descargar material](https://zenodo.org/records/19234511/files/aprendiendo-cosas/A_clase_invertida_gesteco_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19234511.svg)](https://doi.org/10.5281/zenodo.19234511)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/A_clase_invertida_gesteco_ccaa/2025_2026) 
 
 ---
 
-0k **Gestión de pesquerías**  <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> 
+#### 3.2. Gestión de pesquerías.  <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> 
 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_gestion_pesquerias_gesteco_ccaa/2025-2026/guion_gestion_pesquerias.html)
   + [Descargar material](https://zenodo.org/records/19239942/files/aprendiendo-cosas/Te_gestion_pesquerias_gesteco_ccaa-2025-2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19239942.svg)](https://doi.org/10.5281/zenodo.19239942)
@@ -106,39 +114,58 @@ ok + **Instrucciones para preparar la clase sobre un tema de gestión**  <span s
 
 
 
-**Salida al Parque Natural Sierra de Cardeña y Montoro**
-
-+ [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/C_cardenia_gesteco/2023_2024/guion_salida_gesteco.html)
-+ [Descargar material](https://zenodo.org/records/10117271/files/aprendiendo-cosas/C_cardenia_gesteco-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10117271.svg)](https://doi.org/10.5281/zenodo.10117271)
-+ [Ver material en Github](https://github.com/aprendiendo-cosas/C_cardenia_gesteco/tree/2023_2024) 
-
-
-
-
-
-***
-
 ### 4 ¡Manos a la obra! ¿Cómo podemos hacer una gestión más "(socio)ecosistémica"?
 ***
-ok + **Creación de equipos de trabajo** 
+#### 4.1. Creación de equipos de trabajo. <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
+
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA/2025-2026/guion_trabajo_equipo.html)
   + [Descargar material](https://zenodo.org/records/18964195/files/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA-2025-2026.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18964195.svg)](https://doi.org/10.5281/zenodo.18964195)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA/tree/2025-2026) 
 ***
 
-**Instrucciones para hacer el trabajo sobre tipos de (socio)ecosistemas** 
+#### 4.2. Instrucciones para hacer el trabajo sobre tipos de (socio)ecosistemas. <span style="display: inline-block; font-size: 12px; color: white; background-color: #8D26F5; border-radius: 5px; padding: 5px; font-weight: bold;"> Tarea</span> 
+
 + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/2023-2024/guion_trabajo_ecosistema.html)
 + [Descargar material](https://zenodo.org/records/10270377/files/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa-2023-2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10270377.svg)](https://doi.org/10.5281/zenodo.10270377)
 + [Ver material en Github](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/tree/2023-2024) 
 
 ***
 
-**Fase I: Reconocimiento y contextualización del problema** 
+#### 4.3 Fase I: Reconocimiento y contextualización del problema. <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
+
 + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/2025_2026/guion_reconocimiento_reto.html)
 + [Descargar material](https://zenodo.org/records/10270377/files/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa-2023-2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10270377.svg)](https://doi.org/10.5281/zenodo.10270377)
 + [Ver material en Github](https://github.com/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa/tree/2023-2024) 
 
+***
+
+#### 4.4 Fase II: Identificación de actores involucrados y de sus objetivos-necesidades. <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
+
++ [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_actores_reto_gesteco_ccaa/2025_2026/guion_actores_reto.html)
++ [Descargar material](https://zenodo.org/records/19428022/files/aprendiendo-cosas/P_actores_reto_gesteco_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19428022.svg)](https://doi.org/10.5281/zenodo.19428022)
++ [Ver material en Github](https://github.com/aprendiendo-cosas/P_actores_reto_gesteco_ccaa/tree/2025_2026) 
 
 
 
+
+
+
+
+
+
+***
+
+
+
+### 5. Actividades multibloque
+
+
+
+
+
+#### 5.1. Salida al Parque Natural Sierra de Cardeña y Montoro <span style="display: inline-block; font-size: 12px; color: white; background-color: #d1cb17; border-radius: 5px; padding: 5px; font-weight: bold;"> Salida campo</span> , <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> , <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> 
+
++ [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/C_cardenia_gesteco/2025_2026/guion_salida_gesteco.html)
++ [Descargar material](https://zenodo.org/records/10117271/files/aprendiendo-cosas/C_cardenia_gesteco-2023_2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10117271.svg)](https://doi.org/10.5281/zenodo.10117271)
++ [Ver material en Github](https://github.com/aprendiendo-cosas/C_cardenia_gesteco/tree/2023_2024) 
 
