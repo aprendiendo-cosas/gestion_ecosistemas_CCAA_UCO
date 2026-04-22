@@ -74,13 +74,17 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 
 #### 2.3 Los problemas de los sistema complejos también son complejos. <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> 
 
-+ [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_conflictos_socioecologicos_gesteco_ccaa/2025_2026/guion_conflictos.html)
++ [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_problemas_retorcidos_gesteco_ccaa/2025_2026/guion_problemas_retorcidos.html)
 + [Descargar material](https://zenodo.org/records/19240385/files/aprendiendo-cosas/Te_problemas_retorcidos_gesteco_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19240385.svg)](https://doi.org/10.5281/zenodo.19240385)
 + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_problemas_retorcidos_gesteco_ccaa/tree/2025_2026) 
 
 ***
 
+#### 2.4 Bailar con sistemas: la mirada de D. Meadows sobre problemas complejos <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> 
 
++ [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_bailar_sistemas_gesteco_ccaa/2025_2026/guion_bailar_con_sistemas.html)
++ [Descargar material](https://zenodo.org/records/19690652/files/aprendiendo-cosas/Te_bailar_sistemas_gesteco_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19690652.svg)](https://doi.org/10.5281/zenodo.19690652)
++ [Ver material en Github](https://github.com/aprendiendo-cosas/Te_bailar_sistemas_gesteco_ccaa/tree/2025_2026) 
 
 
 
