@@ -1,6 +1,6 @@
 #  Relación de contenidos de la asignatura "Gestión de ecosistemas" del grado de Ciencias Ambientales en la UCO.
 
-### Curso 2025-2026
+## Curso 2025-2026
 
 ![portada](https://github.com/aprendiendo-cosas/gestion_ecosistemas_CCAA_UCO/blob/main/imagenes/portada_2025_2026.jpg?raw=true)
 
@@ -19,12 +19,11 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 
 
 
-
-## *Secuencia de temas abordados* 
-
+A continuación se muestran todo el material que hemos trabajado, ordenado en bloques:
 
 
-### 1 ¿Qué sabemos, antes de cursar la asignatura, de gestión de ecosistemas?
+
+## 1 ¿Qué sabemos, antes de cursar la asignatura, de gestión de ecosistemas?
 
 
 
@@ -42,15 +41,11 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Descargar material](https://zenodo.org/records/18965515/files/aprendiendo-cosas/Te_introduccion_gesteco_ccaa-2025-2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18965515.svg)](https://doi.org/10.5281/zenodo.18965515)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/tree/2025-2026) 
 
-
-
-
-
-
-
 ---
 
-### 2 Aproximaciones novedosas para mejorar la gestión de ecosistemas
+
+
+## 2 Aproximaciones novedosas para mejorar la gestión de ecosistemas
 
 
 
@@ -90,9 +85,9 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 
 
 
-### 3 Técnicas o métodos usados actualmente en la gestión de ecosistemas
+## 3 Técnicas o métodos usados actualmente en la gestión de ecosistemas
 
-***
+
 
 #### 3.1. Instrucciones para preparar la clase sobre un tema de gestión.  <span style="display: inline-block; font-size: 12px; color: white; background-color: #8D26F5; border-radius: 5px; padding: 5px; font-weight: bold;"> Tarea</span> 
 
@@ -108,16 +103,16 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
   + [Descargar material](https://zenodo.org/records/19239942/files/aprendiendo-cosas/Te_gestion_pesquerias_gesteco_ccaa-2025-2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19239942.svg)](https://doi.org/10.5281/zenodo.19239942)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_gestion_pesquerias_gesteco_ccaa/tree/2025-2026) 
 
-***
+---
 
 
 
 
 
+## 4 ¡Manos a la obra! ¿Cómo podemos hacer una gestión más "(socio)ecosistémica"?
 
 
-### 4 ¡Manos a la obra! ¿Cómo podemos hacer una gestión más "(socio)ecosistémica"?
-***
+
 #### 4.1. Creación de equipos de trabajo. <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_creacion_equipos_gesteco_CCAA/2025-2026/guion_trabajo_equipo.html)
@@ -156,26 +151,33 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 + [Descargar material](https://zenodo.org/records/19428289/files/aprendiendo-cosas/P_descomposicion_reto_gesteco_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19428289.svg)](https://doi.org/10.5281/zenodo.19428289)
 + [Ver material en Github](https://github.com/aprendiendo-cosas/P_descomposicion_reto_gesteco_ccaa/tree/2025_2026) 
 
+---
 
-
-#### 4.6 Fase IV: Análisis de interdependencias. <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
+#### 4.6 Fase IV: Análisis de interdependencias. <span style="display: inline-block; font-size: 12px; color: white; background-color: #8D26F5; border-radius: 5px; padding: 5px; font-weight: bold;"> Tarea</span> , <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
 
 + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_interdependencias_reto_gesteco_ccaa/2025_2026/guion_interdependencias_reto.html)
 + [Descargar material](https://zenodo.org/records/19712410/files/aprendiendo-cosas/P_interdependencias_reto_gesteco_ccaa-2025_2026.zip?download=1)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19712410.svg)](https://doi.org/10.5281/zenodo.19712410)
 + [Ver material en Github](https://github.com/aprendiendo-cosas/P_interdependencias_reto_gesteco_ccaa/tree/2025_2026) 
 
+---
 
 
+#### 4.7 Fase V: Análisis del contexto legislativo y de gestión.  <span style="display: inline-block; font-size: 12px; color: white; background-color: #8D26F5; border-radius: 5px; padding: 5px; font-weight: bold;"> Tarea</span> , <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
 
-
++ [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_legislacion_reto_gesteco_ccaa/2024_2025/guion_legislacion_reto.html)
++ [Descargar material](https://zenodo.org/records/15505775/files/aprendiendo-cosas/P_legislacion_reto_gesteco_ccaa-2024_2025.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15505775.svg)](https://doi.org/10.5281/zenodo.15505775)
++ [Ver material en Github](https://github.com/aprendiendo-cosas/P_legislacion_reto_gesteco_ccaa/tree/2024_2025) 
 
 
 ***
 
 
 
-### 5. Actividades multibloque
 
+
+
+
+## 5. Actividades multibloque
 
 
 
