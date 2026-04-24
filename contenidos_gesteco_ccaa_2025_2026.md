@@ -109,6 +109,23 @@ A continuación se muestran todo el material que hemos trabajado, ordenado en bl
 
 
 
+
+
+#### 3.X. Jerarquías de gobernanza y gestión de ecosistemas.  <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> 
+
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_escalas_gobernanza_gesteco_ccaa/2025_2026/guion_escalas_gobernanza.html)
+  + [Descargar material](https://zenodo.org/records/19746045/files/aprendiendo-cosas/Te_escalas_gobernanza_gesteco_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19746045.svg)](https://doi.org/10.5281/zenodo.19746045)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_escalas_gobernanza_gesteco_ccaa/tree/2025_2026) 
+
+---
+
+
+
+
+
+
+
+
 ## 4 ¡Manos a la obra! ¿Cómo podemos hacer una gestión más "(socio)ecosistémica"?
 
 
