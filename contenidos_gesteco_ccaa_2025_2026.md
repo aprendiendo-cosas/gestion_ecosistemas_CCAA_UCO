@@ -98,9 +98,9 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 
 #### 3.1. Instrucciones para preparar la clase sobre un tema de gestión.  <span style="display: inline-block; font-size: 12px; color: white; background-color: #8D26F5; border-radius: 5px; padding: 5px; font-weight: bold;"> Tarea</span> 
 
-  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_clase_invertida_gesteco_ccaa/2025_2026/guion_preparar_clase_invertida.html)
-  + [Descargar material](https://zenodo.org/records/19234511/files/aprendiendo-cosas/A_clase_invertida_gesteco_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19234511.svg)](https://doi.org/10.5281/zenodo.19234511)
-  + [Ver material en Github](https://github.com/aprendiendo-cosas/A_clase_invertida_gesteco_ccaa/2025_2026) 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/A_clase_invertida_gesteco_ccaa/2025-2026/guion_preparar_clase_invertida.html)
+  + [Descargar material](https://zenodo.org/records/19734506/files/aprendiendo-cosas/A_clase_invertida_gesteco_ccaa-2025-2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19734506.svg)](https://doi.org/10.5281/zenodo.19734506)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/A_clase_invertida_gesteco_ccaa/2025-2026) 
 
 ---
 
@@ -135,7 +135,7 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 
 ***
 
-#### 4.3 Fase I: Reconocimiento y contextualización del problema. <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
+#### 4.3 Fase I: Reconocimiento y contextualización del problema. <span style="display: inline-block; font-size: 12px; color: white; background-color: #8D26F5; border-radius: 5px; padding: 5px; font-weight: bold;"> Tarea</span> , <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
 
 + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/2025_2026/guion_reconocimiento_reto.html)
 + [Descargar material](https://zenodo.org/records/10270377/files/aprendiendo-cosas/T_gestion_ecosistemas_gesteco_ccaa-2023-2024.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10270377.svg)](https://doi.org/10.5281/zenodo.10270377)
@@ -143,13 +143,25 @@ A continuación puedes ver los temas ordenados de la misma manera que se muestra
 
 ***
 
-#### 4.4 Fase II: Identificación de actores involucrados y de sus objetivos-necesidades. <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
+#### 4.4 Fase II: Identificación de actores involucrados y de sus objetivos-necesidades. <span style="display: inline-block; font-size: 12px; color: white; background-color: #8D26F5; border-radius: 5px; padding: 5px; font-weight: bold;"> Tarea</span> , <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
 
 + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_actores_reto_gesteco_ccaa/2025_2026/guion_actores_reto.html)
 + [Descargar material](https://zenodo.org/records/19428022/files/aprendiendo-cosas/P_actores_reto_gesteco_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19428022.svg)](https://doi.org/10.5281/zenodo.19428022)
 + [Ver material en Github](https://github.com/aprendiendo-cosas/P_actores_reto_gesteco_ccaa/tree/2025_2026) 
 
 ---
+<<<<<<< Updated upstream
+=======
+
+#### 4.5 Fase III: Descomposición funcional en otros problemas más manejables. <span style="display: inline-block; font-size: 12px; color: white; background-color: #8D26F5; border-radius: 5px; padding: 5px; font-weight: bold;"> Tarea</span> , <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
+
++ [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_descomposicion_reto_gesteco_ccaa/2025_2026/guion_descomposicion_reto.html)
++ [Descargar material](https://zenodo.org/records/19428289/files/aprendiendo-cosas/P_descomposicion_reto_gesteco_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19428289.svg)](https://doi.org/10.5281/zenodo.19428289)
++ [Ver material en Github](https://github.com/aprendiendo-cosas/P_descomposicion_reto_gesteco_ccaa/tree/2025_2026) 
+
+
+
+>>>>>>> Stashed changes
 
 #### 4.5 Fase III: Descomposición funcional del problema en subproblemas manejables. <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
 
