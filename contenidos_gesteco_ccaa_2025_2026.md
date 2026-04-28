@@ -79,6 +79,13 @@ A continuación se muestran todo el material que hemos trabajado, ordenado en bl
 + [Descargar material](https://zenodo.org/records/19690652/files/aprendiendo-cosas/Te_bailar_sistemas_gesteco_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19690652.svg)](https://doi.org/10.5281/zenodo.19690652)
 + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_bailar_sistemas_gesteco_ccaa/tree/2025_2026) 
 
+***
+
+#### 2.5 Algunas ideas sobre cómo abordar conflictos en sistemas socioecológicos <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> 
+
++ [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_conflictos_socioecologicos_gesteco_ccaa/2025_2026/guion_conflictos.html)
++ [Descargar material](https://zenodo.org/records/19746800/files/aprendiendo-cosas/Te_conflictos_socioecologicos_gesteco_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19746800.svg)](https://doi.org/10.5281/zenodo.19746800)
++ [Ver material en Github](https://github.com/aprendiendo-cosas/Te_conflictos_socioecologicos_gesteco_ccaa/tree/2025_2026) 
 
 
 
