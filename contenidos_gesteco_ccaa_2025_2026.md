@@ -112,7 +112,7 @@ A continuación se muestran todo el material que hemos trabajado, ordenado en bl
 
 ---
 
-#### 3.2. Gestión de especies invasoras.  <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> 
+#### 3.3. Gestión de especies invasoras.  <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> 
 
   + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_especies_invasoras_gesteco_ccaa/2025_2026/guion_especies_invasoras.html)
   + [Descargar material](https://zenodo.org/records/20376786/files/aprendiendo-cosas/Te_especies_invasoras_gesteco_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20376786.svg)](https://doi.org/10.5281/zenodo.20376786)
@@ -120,7 +120,11 @@ A continuación se muestran todo el material que hemos trabajado, ordenado en bl
 
 ---
 
+#### 3.4. Gestión cinegética  <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> 
 
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_gestion_cinegetica_gesteco_ccaa/2025-2026/guion_gestion_cinegetica.html)
+  + [Descargar material](https://zenodo.org/records/20383698/files/aprendiendo-cosas/Te_gestion_cinegetica_gesteco_ccaa-2025-2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20383698.svg)](https://doi.org/10.5281/zenodo.20383698)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_gestion_cinegetica_gesteco_ccaa/tree/2025-2026) 
 
 
 
