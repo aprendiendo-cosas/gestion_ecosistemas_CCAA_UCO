@@ -135,6 +135,13 @@ A continuación se muestran todo el material que hemos trabajado, ordenado en bl
   + [Descargar material](https://zenodo.org/records/20394004/files/aprendiendo-cosas/Te_especies_amenazadas_gesteco_ccaa-2025_2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20394004.svg)](https://doi.org/10.5281/zenodo.20394004)
   + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_especies_amenazadas_gesteco_ccaa/tree/2025-2026) 
 
+---
+
+#### 3.6. Gestión forestal  <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;">Teoría</span> 
+
+  + [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/Te_gestion_forestal_gesteco_ccaa/2025-2026/guion_gestion_forestal.html)
+  + [Descargar material](https://zenodo.org/records/20416464/files/aprendiendo-cosas/Te_gestion_forestal_gesteco_ccaa-2025-2026.zip?download=1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20416464.svg)](https://doi.org/10.5281/zenodo.20416464)
+  + [Ver material en Github](https://github.com/aprendiendo-cosas/Te_gestion_forestal_gesteco_ccaa/tree/2025-2026) 
 
 
 
